@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d248cf4-0da2-4966-9232-ebb1e7e5192c" name="Changes" comment="description of the program README.md">
-      <change afterPath="$PROJECT_DIR$/App.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4d248cf4-0da2-4966-9232-ebb1e7e5192c" name="Changes" comment="add app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713428055184</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add app">
+      <option name="closed" value="true" />
+      <created>1713429165746</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713429165746</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +167,7 @@
     <MESSAGE value="Merge branch 'Anton'" />
     <MESSAGE value="Merge branch 'Anton'&#10;add new function and button ”complete order”" />
     <MESSAGE value="description of the program README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="description of the program README.md" />
+    <MESSAGE value="add app" />
+    <option name="LAST_COMMIT_MESSAGE" value="add app" />
   </component>
 </project>
